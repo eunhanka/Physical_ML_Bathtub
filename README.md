@@ -1,9 +1,4 @@
-# PostDisasterSim (PDS)
-An agent-based simulator mimicking how social-physical multilayer system recovers after a disaster.
-
-## Project 
-* National Science Foundation 1638311.
-* CRISP Type 2/Collaborative Research: Critical Transitions in the Resilience and Recovery of Interdependent Social and Physical Networks
+# Physics-Informed Machine Learning with Generalized Bathtub Model
 
 ## Introduction
 
